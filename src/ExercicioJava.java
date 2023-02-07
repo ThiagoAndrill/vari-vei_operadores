@@ -1,5 +1,3 @@
-//Exercício 1
-
 import java.util.Scanner;
 
 public class ExercicioJava {
@@ -7,7 +5,9 @@ public class ExercicioJava {
 	public static void main(String[] args) {
 		
 		Scanner s = new Scanner(System.in); 
-		/*
+		
+		//Exercício 1
+		
 		float salario,abono,novoSalario;
 		
 		System.out.println("Digite o salário: ");
@@ -19,10 +19,10 @@ public class ExercicioJava {
 		novoSalario = salario + abono;
 		
 		System.out.printf("\nO valor do novo salário é: %.2f\n",novoSalario);
-		*/
+		
 		
 		//Exercício 2
-		/*
+		
 		float nota1,nota2,nota3,nota4,mediaFinal;
 		
 		System.out.println("Digite a primeira nota: \n");
@@ -40,10 +40,10 @@ public class ExercicioJava {
 		mediaFinal = (nota1+nota2+nota3+nota4)/4;
 		
 		System.out.printf("\nSua nota é: \n\n%.1f",mediaFinal);
-		*/
+		
 		
 		//Exercício 3
-		/*
+		
 		float salarioBruto,adicionalNoturno,horasExtras,descontos,salarioLiquido;
 		
 		System.out.println("Digite o salario bruto: \n");
@@ -61,7 +61,7 @@ public class ExercicioJava {
 		salarioLiquido = (salarioBruto+adicionalNoturno+horasExtras*5)-descontos;
 		
 		System.out.printf("\nSeu salário é: \n\n%.2f",salarioLiquido);
-		*/
+		
 		//Exercício 4 
 		
 		int n1,n2,n3,n4,diferenca;
