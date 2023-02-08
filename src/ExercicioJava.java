@@ -12,7 +12,6 @@ public class ExercicioJava {
 		
 		System.out.println("Digite o salário: ");
 		salario = s.nextFloat();
-		
 		System.out.println("\nDigite o valor do abono: ");
 		abono = s.nextFloat();
 		
