@@ -6,6 +6,8 @@ public class Lista1_Matrix_Exercicio03 {
 
 	public static void main(String[] args) {
 		
+		//Lista 1 - Exercício 03 - Matriz
+		
 		// Elabore um algoritmo que leia uma Matriz 3x3 de números inteiros e em seguida, mostre na tela:
 		// Todos os elementos da Diagonal Principal
 		// Todos os elementos da Diagonal Secundária

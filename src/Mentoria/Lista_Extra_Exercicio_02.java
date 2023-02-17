@@ -2,7 +2,7 @@ package Mentoria;
 
 import java.util.Scanner;
 
-public class Lista01_Exercicio02 {
+public class Lista_Extra_Exercicio_02 {
 
 	public static void main(String[] args) {
 		// Lista 01 - Exercício 02

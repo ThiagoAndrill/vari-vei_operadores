@@ -42,9 +42,5 @@ public class Collection1_Explicacao {
 		System.out.println();
 		
 		for(int i=0;i<minhaLista.size();i++);
-		
-			System.out.println("\nElemento: "+minhaLista.get(i));		
-		}
-	
-		Collections.sort(minhaLista);
+}
 }
